@@ -129,7 +129,7 @@ controller.resume();
 
 
 # SDK
-Requires at least SDK 24 (Android 7.0).
+Requires at least SDK 24 (Android 7.0).（本仓库 修改原作者最低版本号 到 16 ）
 
 # TODOs
 * iOS Native embedding is written to match what is supported in the framework as of the date of publication of this package. It needs to be improved as the framework support improves.
