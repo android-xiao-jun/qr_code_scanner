@@ -1,8 +1,3 @@
-/*
-* @overview: 安装apk插件
-* @Author: jun 
-* @Date: 2020-06-19 14:32:14 
-*/
 import 'dart:async';
 
 import 'package:flutter/services.dart';
