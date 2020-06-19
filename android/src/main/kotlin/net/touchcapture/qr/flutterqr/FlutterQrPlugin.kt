@@ -9,6 +9,7 @@ class FlutterQrPlugin : MethodCallHandler {
     companion object {
         @JvmStatic
         fun registerWith(registrar: Registrar) {
+            InstallPlugin.registerWith(registrar);
             registrar
                     .platformViewRegistry()
                     .registerViewFactory(
